@@ -29,7 +29,7 @@
       "#PrivSec.dev:arcticfoxes.net",
       "#disroot:aria-net.org"
     ],
-    "servers": ["ma.newcation.us.kg:2096", "envs.net", "matrix.org", "monero.social", "mozilla.org"]
+    "servers": ["ma.newcation.us.kg", "envs.net", "matrix.org", "monero.social", "mozilla.org"]
   },
 
   "hashRouter": {
